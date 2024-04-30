@@ -37,17 +37,17 @@ Project Setup (2 Days):
 
 -quick site rundown, answer question, then ask for tagline
 
-Tyler: 
-        - Featured Product instead of Featured Project 
-        - Imagining your Reality
-Pao
-        - Make sure its AECOM Viz Studio
-        - Doesn't want it to seem like its too removed from AECOM
-        - Beautify your work
-Chris Murph
-        - Site feels more human
-        - When hovering over a project, it displays an overlay with name, general info, maybe some tech specs. Like 3 bulletpoints 
-        - This is the way
+Tyler:\ 
+        - Featured Product instead of Featured Project \
+        - Imagining your Reality\
+Pao:\
+        - Make sure its AECOM Viz Studio\
+        - Doesn't want it to seem like its too removed from AECOM\
+        - Beautify your work\
+Chris Murph:\
+        - Site feels more human\
+        - When hovering over a project, it displays an overlay with name, general info, maybe some tech specs. Like 3 bulletpoints \
+        - This is the way\
 Jeremy
         - 
 Jimmy
